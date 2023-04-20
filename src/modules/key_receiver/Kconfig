@@ -1,0 +1,6 @@
+menuconfig MODULES_KEY_RECEIVER
+ bool "key_receiver"
+ default n
+ ---help---
+ 	Enable support for key_receiver
+
