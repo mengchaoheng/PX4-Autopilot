@@ -13,7 +13,7 @@
 [submodule "Tools/simulation/gazebo/sitl_gazebo"]
 	path = Tools/simulation/gazebo/sitl_gazebo
 	url = https://github.com/mengchaoheng/DF_gazebo.git
-	branch = flyant
+	branch = ductedfan-14
 [submodule "src/drivers/gps/devices"]
 	path = src/drivers/gps/devices
 	url = https://github.com/PX4/PX4-GPSDrivers.git
